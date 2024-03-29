@@ -33,7 +33,7 @@ module "sample" {
   control_tower_parameters = {
     AccountEmail              = "ravisreehari11+sample@gmail.com"
     AccountName               = "sample-aft"
-    ManagedOrganizationalUnit = "ou-n0rm-km0fjjjh"
+    ManagedOrganizationalUnit = "sample(ou-n0rm-km0fjjjh)"
     SSOUserEmail              = "ravisreehari11+sample@gmail.com"
     SSOUserFirstName          = "sample"
     SSOUserLastName           = "AFT"
